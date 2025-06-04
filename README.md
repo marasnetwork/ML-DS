@@ -25,9 +25,9 @@ Each project typically contains:
 
 | Project | Description | Status |
 |--------|-------------|--------|
-| `01-linear-regression` | Basic implementation of linear regression from scratch and with scikit-learn | ✅ Completed |
-| `02-logistic-regression` | Classification on a simple dataset using logistic regression | 🔧 In progress |
-| `03-clustering-basics` | K-means and hierarchical clustering applied to synthetic and real-world data | 🚧 Planned |
+| `01-linear-regression` | Basic implementation of linear regression from scratch | ✅ Completed |
+| `02-polynomial-regression` | Basic implementation of polynomial regression from scratch | 🔧 In progress |
+| `03-logistic-regression` | Basic implementation of logistic regression from scratch | 🚧 Planned |
 | More coming soon... |
 
 ## 🛠️ Tools & Libraries
