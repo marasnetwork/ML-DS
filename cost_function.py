@@ -29,7 +29,6 @@ def compute_cost(x, y, w, b):
 
 w = 200
 b = 100
-
 cost = compute_cost(x_train, y_train, w, b)
 print(f"Cost: {cost}")
 
