@@ -26,8 +26,8 @@ Each project typically contains:
 | Project | Description | Status |
 |--------|-------------|--------|
 | `01-linear-regression` | Basic implementation of linear regression from scratch | ✅ Completed |
-| `02-polynomial-regression` | Basic implementation of polynomial regression from scratch | 🔧 In progress |
-| `03-logistic-regression` | Basic implementation of logistic regression from scratch | 🚧 Planned |
+| `02-polynomial-regression` | Basic implementation of polynomial regression from scratch | ✅ Completed |
+| `03-logistic-regression` | Basic implementation of logistic regression from scratch | 🔧 In progress |
 | More coming soon... |
 
 ## 🛠️ Tools & Libraries
