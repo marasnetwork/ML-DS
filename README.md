@@ -28,6 +28,7 @@ Each project typically contains:
 | `01-linear-regression` | Basic implementation of linear regression from scratch | ✅ Completed |
 | `02-polynomial-regression` | Basic implementation of polynomial regression from scratch | ✅ Completed |
 | `03-logistic-regression` | Basic implementation of logistic regression from scratch | 🔧 In progress |
+| `04-neural-networks-intuition` | From basics, model, TensorFlow implementation to Python practice | 🚧 Planned |
 | More coming soon... |
 
 ## 🛠️ Tools & Libraries
