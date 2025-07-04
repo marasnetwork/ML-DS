@@ -44,3 +44,35 @@ print()
 print("Missing values in column")
 print(df["Age"].isnull().sum())
 print()
+
+print("Passengers count")
+print(len(df))
+print()
+
+print("Men and women count")
+print(df["Sex"].value_counts())
+print()
+
+print("Average age of survivors")
+print(df[df["Survived"] == 1]["Age"].mean())
+print()
+
+print("Average price of ticket")
+print(df.groupby("Pclass")["Fare"].mean())
+print()
+
+print("Missing age values")
+print(df["Age"].isnull().sum())
+print()
+
+print("Passengers between 18-25 in first class")
+print(len(df[(df["Age"] >= 18) & (df["Age"] <= 25) & (df["Pclass"] == 1)]))
+print()
+
+print("The most expensive ticker")
+print(df["Fare"].max())
+print()
+
+print("The count of people in every seaport")
+print(df["Embarked"].value_counts())
+print()
