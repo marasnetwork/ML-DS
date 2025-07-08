@@ -7,7 +7,7 @@
 
 import pandas as pd # type: ignore
 
-df = pd.read_csv("train.csv")
+df = pd.read_csv("../data/train.csv")
 
 print("First five rows")
 print(df.head())
